@@ -13,7 +13,7 @@ const Home = ({ artists }) => {
       color="green"
       subtitle="profile"
       title={`${user?.firstName} ${user?.lastName}`}
-      description="15 public playlists"
+      description={`${user?.playlistsCount} public playlists`}
       image="https://d1gdi8qinx8x49.cloudfront.net/540x540/54017.jpeg"
     >
       <Box color="white" paddingX="40px">
