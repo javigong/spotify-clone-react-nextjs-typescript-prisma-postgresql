@@ -8,8 +8,8 @@ Spotify Clone is a work in progress web app developed with Next.js and TypeScrip
 
 - Frontend/Backend: React.js, Node.js, Next.js, Chakra UI, React Howler, React Material Design Icons.
 - Authentication: BCrypt and JWT.
-- API/Database: Prisma, PostgreSQL and Heroku.
-- Deployment: Vercel.
+- API/Database: Prisma and PostgreSQL.
+- Deployment: Vercel and Heroku.
 ___
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
