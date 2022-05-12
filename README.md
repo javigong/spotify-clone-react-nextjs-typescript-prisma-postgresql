@@ -1,3 +1,17 @@
+# Spotify Clone Web App
+
+Spotify Clone is a work in progress web app developed with Next.js and TypeScript. It includes user/email authentication, home page, playlists, and music player with shuffle, repeat, play, current duration, and seek bar. Includes middleware to protect API routes by using a Next.js middleware edge function that checks user token, custom hooks with SWR to fetching user and playlists data, server side rendering to load playlists by exporting the getServerSideProps function from Next.js, state management for the music player using Easy Peasy library and requestAnimationFrame method to update synchronously its UI.
+
+- [Live Site (Vercel)](https://spotify-clone-react-nextjs-typescript-prisma-postgresql.vercel.app/)
+
+## Tech Stack
+
+- Frontend/Backend: React.js, Node.js, Next.js, Chakra UI, React Howler, React Material Design Icons.
+- Authentication: BCrypt and JWT.
+- API/Database: Prisma, PostgreSQL and Heroku.
+- Deployment: Vercel.
+___
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
