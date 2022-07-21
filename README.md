@@ -5,6 +5,8 @@ This project takes advantage of different Next.js features like API routes prote
 
 - [Live Site (Vercel)](https://spotify-clone-react-nextjs-typescript-prisma-postgresql.vercel.app/)
 
+***Note: The user email/pass to access the app is user@test.com/password. As the database is deployed at Heroku Free Tier it needs some minutes to awake an be realoaded after the first authentication intent. ***
+
 ## Tech Stack
 
 - Frontend/Backend: React.js, Node.js, Next.js, Chakra UI, React Howler, React Material Design Icons.
